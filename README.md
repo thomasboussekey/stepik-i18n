@@ -5,7 +5,8 @@ This is [Stepik](https://stepik.org)'s UI translations in JSON format.
 At this moment there are five locales:
 * [🇺🇸 English](https://github.com/StepicOrg/stepik-i18n/blob/master/en/translations.js)  (default, falls back here if translation is missing)
 * [🇷🇺 Russian](https://github.com/StepicOrg/stepik-i18n/blob/master/ru/translations.js)
-* [🇺🇦 Ukrainian](https://github.com/StepicOrg/stepik-i18n/blob/master/uk/translations.js) 
+* [🇺🇦 Ukrainian](https://github.com/StepicOrg/stepik-i18n/blob/master/uk/translations.js)
+* [🇧🇾 Belarusian](https://github.com/StepicOrg/stepik-i18n/blob/master/be/translations.js)
 * [🇨🇳 Chinese](https://github.com/StepicOrg/stepik-i18n/blob/master/zh-cn/translations.js)
 * [🇪🇸 Spanish](https://github.com/StepicOrg/stepik-i18n/blob/master/es/translations.js)
 
@@ -27,5 +28,6 @@ See [example for plural for English](https://github.com/StepicOrg/stepik-i18n/bl
 
 * Stepik Team (English and Russian translations; Spanish and Chinese rough auto-translation)
 * Андрій Красоткін (Ukrainian translation)
+* Павел Свідэрскі (Belarusian translation)
 * add your name here
 
